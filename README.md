@@ -18,3 +18,10 @@ The test data comprises of:
 1. Speech recordings (raw mel spectrogram frames)
 2. Phoneme state labels are not given
 Your job is to identify the phoneme state label for each frame in the test data set. It is important to note that utterances are of variable length.
+
+To start the file, run: python3 hw1p2_code/main.py 
+To change the model parameters, go to the neuralent.py and going through Class Nnetwork()
+After compelete the code, the result and model state files is saved in ./data folder. 
+
+## Homework2 Part2
+-------------- 
